@@ -6,7 +6,7 @@ Usage:
 
     DoReq.py PythonFromCurlFile login pass
 
-PythonFromCurlFile - You can create it by CurlToPy.js 
+PythonFromCurlFile - You can create this file by CurlToPy.js.It must to be  at same folder as DoReq.py 
 
 login - argument no.2 login to page you want to request ( It stays in "Origin" key created file from CurlToPy.js
 
