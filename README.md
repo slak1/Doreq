@@ -1,5 +1,5 @@
 # Doreq
-Backends request to page with basic autentication
+Backend's request to page with basic autentication
 This feature needs CurlToPy.js to create (file.py from Curl commands) that you put to DoReq.py as a argument no.1
 
 Usage: 
